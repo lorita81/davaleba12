@@ -1,0 +1,96 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url(Inter-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: "monument";
+    src: url(MonumentExtended-Ultrabold.otf);
+}
+
+body {
+    background: url(Vector\ \(6\).png);
+    background-repeat: no-repeat;
+    margin: 0px;
+    background-color: #050505;
+
+
+}
+
+header {
+
+    padding-top: 59px;
+    padding-left: 45px;
+}
+
+.vector {
+
+    width: 700px;
+    height: 700px;
+    top: -56px;
+
+}
+
+.wel {
+
+    font-family: "Inter";
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0em;
+    margin-top: 90px;
+    padding-left: 45px;
+    color: #D6D6D6;
+
+
+}
+
+h2 {
+    font-family: "Monument";
+    font-size: 167px;
+    line-height: 210px;
+    letter-spacing: -0.02em;
+    padding-top: 9px;
+    padding-left: 39px;
+    color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #fbfbfb;
+
+
+
+
+}
+
+.foto {
+    height: 753px;
+    width: 777px;
+    top: -23px;
+    border-radius: 0px;
+    margin-top: -23px;
+    z-index: -1;
+
+
+}
+
+p {
+    font-family: "Inter";
+    width: 472px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    margin-left: 75px;
+    margin-top: 222px;
+    color: #FFFFFF;
+}
+
+.foto {
+    position: absolute;
+    right: 0;
+
+}
